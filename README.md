@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Website deployment built in NodeJs**
 
-- 💬 Ask me about **Java,HTML,CSS and Javascript**
+- 💬 Ask me about **Java and Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/g-themba-chauke**
 
