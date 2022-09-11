@@ -35,9 +35,10 @@
 
 </br> </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakaza&show_icons=true&locale=en&layout=compact" alt="jakaza" /></p>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jakaza&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jakaza&count_private=true&theme=tokyonight&showicons=true)]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakaza&show_icons=true&locale=en" alt="jakaza" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jakaza&theme=dark)]()
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakaza&" alt="jakaza" /></p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jakaza&bg_color=000000&color=ffffff&line=4e4c9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
