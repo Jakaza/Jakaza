@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/g-themba-chauke**
 
-- ⚡ Fun fact **I think, I'm funny, coding is ma life**
+- ⚡ Fun fact **I think, I'm funny, coding is my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
