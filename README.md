@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/thembag3" target="blank"><img src="https://img.shields.io/twitter/follow/thembag3?logo=twitter&style=for-the-badge" alt="thembag3" /></a> </p>
 
 
-- 🔭 I’m currently working on **Web Data Scrapper**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **NodeJs, ReactJs and Android Studio**
+- 🌱 I’m currently learning **NodeJs, Java JEE and Android Studio**
 
 <!-- 🤝 I’m looking for help with **Website deployment built in NodeJs** -->
  
