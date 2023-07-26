@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Themba G Chauke</h1>
+<h2 align="center">Hi 👋 I'm Themba G Chauke</h2>
 <h3 align="center">A passionate frontend & backend developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakaza&label=Profile%20views&color=0e75b6&style=flat" alt="jakaza" /> </p>
@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/thembag3" target="blank"><img src="https://img.shields.io/twitter/follow/thembag3?logo=twitter&style=for-the-badge" alt="thembag3" /></a> </p>
 
 
-- 🌱 I’m currently looking for an internship.
+- 🌱 I’m currently looking for internship, entry-level or graduate program.
 
 - 📫 How to reach me **https://www.linkedin.com/in/g-themba-chauke**
 
