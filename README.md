@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋 I'm Themba G Chauke</h2>
-<h3 align="center">A passionate frontend & backend developer from South Africa</h3>
+<h4 align="center">A passionate frontend & backend development and I'm from South Africa</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakaza&label=Profile%20views&color=0e75b6&style=flat" alt="jakaza" /> </p>
 
